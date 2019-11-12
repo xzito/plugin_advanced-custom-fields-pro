@@ -66,4 +66,3 @@ update_version() {
 get_options "$@" || error "provide an upstream directory path with the -d flag"
 synchronize
 update_version_check
-
