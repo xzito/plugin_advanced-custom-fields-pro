@@ -1,6 +1,4 @@
 #!/bin/bash
-
-# bin/pull_from_upstream_package
 # Accepts a path to a directory containing the upstream package, and pulls any
 # changes into the current repository with rsync.
 

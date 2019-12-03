@@ -1,6 +1,4 @@
 #!/bin/sh
-
-# bin/new_release.sh
 # Creates a new release of this plugin on GitHub.
 
 set -e
