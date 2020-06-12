@@ -1,8 +1,8 @@
 {
   "name": "xzito/plugin_advanced-custom-fields-pro",
-  "version": "5.8.7",
+  "version": "5.8.12",
   "description": "GitHub mirror for the Advanced Custom Fields Pro plugin.",
-  "type": "wordpress-plugin",
+  "type": "wordpress-muplugin",
   "authors": [
     {
       "name": "James Boynton",
