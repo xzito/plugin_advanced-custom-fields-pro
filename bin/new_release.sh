@@ -21,5 +21,5 @@ fi
 git add -A
 git commit -m "Update to version $tag"
 git tag -a "$tag" -m "$tag"
-git push origin master --tags
+git push origin main --tags
 
